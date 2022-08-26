@@ -1,4 +1,4 @@
-# day-02
+# day-01
 q1)Write a blog on Difference between HTTP1.1 vs HTTP2.
  
  ans
